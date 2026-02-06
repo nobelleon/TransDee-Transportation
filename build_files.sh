@@ -11,7 +11,7 @@ python3 manage.py collectstatic --noinput
 # create a virtual environment named 'venv' if it doesn't already exist
 python3.9 -m venv venv
 
-echo %PYTHONPATH%
+
 
 
 
