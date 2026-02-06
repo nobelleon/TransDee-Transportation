@@ -1,8 +1,6 @@
 # build_files.sh
 #!/bin/bash
 echo "BUILD START"
-# Activate the virtual environment
-source venv/bin/activate
 # Install all dependencies
 pip install -r requirements.txt
 # create a virtual environment named 'venv' if it doesn't already exist
