@@ -6,7 +6,7 @@
             "use": "vercel-sapper"
         },
 	{
-	    "src": "LEATHERWATCHES/wsgi.py",
+	    "src": "TRANSDEE/wsgi.py",
 	    "use": "@vercel/python",
 	    "config": { "maxLambdaSize": "15mb", "runtime": "python3.9" }
 	},
@@ -25,7 +25,7 @@
         },
 	    {
 		 "src": "/(.*)",
-		 "dest": "LEATHERWATCHES/wsgi.py"
+		 "dest": "TRANSDEE/wsgi.py"
 	    }
 	 ]
 } 
