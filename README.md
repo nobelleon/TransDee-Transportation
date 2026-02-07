@@ -1,10 +1,7 @@
 # TransDee-Transportation
 
 <div align="center">
-
-  TransDee is a fully responsive transportation website, <br />Responsive for all devices, build using Django, HTML, CSS, and JavaScript.
-
-  <a href="https://nobelleon.pythonanywhere.com"><strong>➥ Live TransDee</strong></a>
+  Website here : <a href="https://nobelleon.pythonanywhere.com"><strong>➥ Live TransDee</strong></a>
 </div>
 
 ---
